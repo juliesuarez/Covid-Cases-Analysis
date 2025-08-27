@@ -40,4 +40,4 @@ Comparative Bar Chart: Ranks the top 10 countries with the highest total number 
 Vaccination Progress Chart: Tracks the cumulative number of vaccinations administered in the selected countries.
 Choropleth World Map: An interactive map displaying the total cases per million people for each country, providing a clear view of the pandemic's global impact.
 
-# Author Julie Nakawesi with Love ❤️❤️❤️❤️
+# Author by Julie Nakawesi with Love ❤️❤️❤️❤️
