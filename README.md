@@ -12,7 +12,7 @@ File Used: owid-covid-data.csv
 # Features
 Data Loading and Cleaning: Loads the dataset and prepares it for analysis by handling missing values and converting data types.
 Exploratory Data Analysis (EDA): Investigates trends for total cases, deaths, and new cases over time.
-Comparative Analysis: Filters and compares key metrics for a selected list of countries (Kenya, USA, India, UK, Brazil).
+Comparative Analysis: Filters and compares key metrics for a selected list of countries (Uganda,Kenya, USA, India, UK, Brazil).
 Vaccination Tracking: Visualizes the progress of vaccination rollouts.
 Geospatial Visualization: Creates an interactive choropleth map to show the global distribution of cases per million people.
 
